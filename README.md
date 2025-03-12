@@ -21,43 +21,78 @@ The write-ups for individual challenges solved during the event.
 <details>
   <summary>Binary Exploitation (0 solutions)</summary>
 
-* **[?](Binary%20Exploitation/?/?.md) (Solved)**
-* ? (Unsolved)
+* **[PIE TIME](Binary%20Exploitation/?/?.md) (Solved)** - 75 points
+* hash-only-1 (Solved) - 100 points
+* hash-only-2 (Solved) - 200 points
+* PIE TIME 2 (Solved) - 200 points 
+* Echo Valley (Solved) - 300 points 
+* handoff (Unsolved) - 400 points
 
 </details>
 
 <details>
   <summary>Cryptography (0 solutions)</summary>
 
-* ? (Unsolved)
+* hashcrack (Solved) - 100 points
+* EVEN RSA CAN BE BROKEN??? (Solved) - 200 points
+* Guess My Cheese (Part 1) (Solved) - 200 points
+* Guess My Cheese (Part 2) (Unsolved) - 300 points
+* ChaCha Slide (Unsolved) - 400 points
+* Ricochet (Unsolved) - 500 points
 
 </details>
 
 <details>
   <summary>Forensics (0 solutions)</summary>
 
-* ? (Unsolved)
+* Ph4nt0m 1ntrud3r (Solved) - 50 points
+* RED (Solved) - 100 points
+* flags are stepic (Solved) - 100 points
+* Bitlocker-1 (Unsolved) - 200 points
+* Event-Viewing (Solved) - 200 points
+* Bitlocker-2 (Unsolved) - 300 points
 
 </details>
 
 <details>
-  <summary>General Skills (9 solutions)</summary>
+  <summary>General Skills (0 solutions)</summary>
 
-* ? (Unsolved)
+* FANTASY CTF (Solved) - 10 points
+* (Removed) Chalkboard (Solved) - 100 points
+* Rust fixme 1 (Solved) - 100 points
+* Rust fixme 2 (Solved) - 100 points
+* Rust fixme 3 (Solved) - 100 points
+* YaraRules0x100 (Unsolved) - 200 points
 
 </details>
 
 <details>
   <summary>Reverse Engineering (0 solutions)</summary>
 
-* ? (Unsolved)
+* Flag Hunters (Solved) - 75 points
+* Binary Instrumentation 1 (Unsolved) - 200 points
+* Tap into Hash (Solved) - 200 points
+* Chronohack (Solved) - 200 points
+* Quantum Scrambler (Solved) - 200 points
+* Binary Instrumentation 2 (Unsolved) - 300 points
+* perplexed (Unsolved) - 400 points
 
 </details>
 
 <details>
   <summary>Web Exploitation (0 solutions)</summary>
 
-* ? (Unsolved)
+* Cookie Monster Secret Recipe (Solved) - 50 points
+* head-dump (Solved) - 50 points
+* n0s4n1ty 1 (Solved) - 100 points
+* SSTI1 (Solved) - 100 points
+* WebSockFish (Unsolved) - 200 points
+* 3v@l (Solved) - 200 points
+* SSTI2 (Solved) - 200 points
+* Apriti sesamo (Unsolved) - 300 points
+* Pachinko (Unsolved) - 300 points
+* Pachinko Revisited (Unsolved) - 500 points
+* secure-email-service (Unsolved) - 500 points
 
 </details>
 
