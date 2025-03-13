@@ -18,14 +18,16 @@ As the purpose of this repository is to document my personal progress, capturing
 
 The write-ups for individual challenges solved during the event.
 
-<details>
-  <summary>Binary Exploitation (0 solutions)</summary>
+**NOTE: **
 
-* **[PIE TIME](Binary%20Exploitation/?/?.md) (Solved)** - 75 points
-* hash-only-1 (Solved) - 100 points
-* hash-only-2 (Solved) - 200 points
-* PIE TIME 2 (Solved) - 200 points 
-* Echo Valley (Solved) - 300 points 
+<details>
+  <summary>Binary Exploitation (5 solutions)</summary>
+
+* **[PIE TIME](Binary%20Exploitation/PIE%20TIME/PIE%20TIME.md) (Solved)** - 75 points
+* **[hash-only-1](Binary%20Exploitation/hash-only-1/hash-only-1.md) (Solved)** - 100 points
+* **[hash-only-2](Binary%20Exploitation/hash-only-1/hash-only-2.md) (Solved)** - 200 points
+* **[PIE TIME 2](Binary%20Exploitation/PIE%20TIME%202/PIE%20TIME%202.md) (Solved)** - 200 points 
+* **[Echo Valley](Binary%20Exploitation/Echo%20Valley/Echo%20Valley.md) (Solved)** - 300 points 
 * handoff (Unsolved) - 400 points
 
 </details>
