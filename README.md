@@ -28,7 +28,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * **[hash-only-2](Binary%20Exploitation/hash-only-2/hash-only-2.md) (Solved)** - 200 points
 * **[PIE TIME 2](Binary%20Exploitation/PIE%20TIME%202/PIE%20TIME%202.md) (Solved)** - 200 points 
 * **[Echo Valley](Binary%20Exploitation/Echo%20Valley/Echo%20Valley.md) (Solved)** - 300 points 
-* handoff (Unsolved) - 400 points
+* handoff (Solved) - 400 points
 
 </details>
 
@@ -69,15 +69,15 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (0 solutions)</summary>
+  <summary>Reverse Engineering (1 solutions)</summary>
 
 * Flag Hunters (Solved) - 75 points
-* Binary Instrumentation 1 (Unsolved) - 200 points
+* Binary Instrumentation 1 (Solved) - 200 points
 * Tap into Hash (Solved) - 200 points
 * Chronohack (Solved) - 200 points
 * Quantum Scrambler (Solved) - 200 points
-* Binary Instrumentation 2 (Unsolved) - 300 points
-* perplexed (Unsolved) - 400 points
+* Binary Instrumentation 2 (Solved) - 300 points
+* perplexed (Solved) - 400 points
 
 </details>
 
