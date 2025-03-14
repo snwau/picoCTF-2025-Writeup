@@ -74,7 +74,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * Flag Hunters (Solved) - 75 points
 * Binary Instrumentation 1 (Solved) - 200 points
 * Tap into Hash (Solved) - 200 points
-* Chronohack (Solved) - 200 points
+* **[Chronohack](Reverse%20Engineering/Chronohack/Chronohack.md) (Solved)** - 200 points
 * Quantum Scrambler (Solved) - 200 points
 * Binary Instrumentation 2 (Solved) - 300 points
 * perplexed (Solved) - 400 points
@@ -92,7 +92,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * 3v@l (Solved) - 200 points
 * SSTI2 (Solved) - 200 points
 * Apriti sesamo (Unsolved) - 300 points
-* Pachinko (Unsolved) - 300 points
+* Pachinko (Solved) - 300 points
 * Pachinko Revisited (Unsolved) - 500 points
 * secure-email-service (Unsolved) - 500 points
 
