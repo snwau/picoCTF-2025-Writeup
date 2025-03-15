@@ -21,14 +21,14 @@ As the purpose of this repository is to document my personal progress, capturing
 As time permits I'll be adding further individual challenge write ups for all those marked as `(Solved)`, based on my notes taken during the event. Additionally there may be the odd challenge that I failed to solve but may want to document my progress, marked `(Unsolved - Progress Writeup)`.
 
 <details>
-  <summary>Binary Exploitation (5 solutions)</summary>
+  <summary>Binary Exploitation (6 solutions)</summary>
 
 * **[PIE TIME](Binary%20Exploitation/PIE%20TIME/PIE%20TIME.md) (Solved)** - 75 points
 * **[hash-only-1](Binary%20Exploitation/hash-only-1/hash-only-1.md) (Solved)** - 100 points
 * **[hash-only-2](Binary%20Exploitation/hash-only-2/hash-only-2.md) (Solved)** - 200 points
 * **[PIE TIME 2](Binary%20Exploitation/PIE%20TIME%202/PIE%20TIME%202.md) (Solved)** - 200 points 
 * **[Echo Valley](Binary%20Exploitation/Echo%20Valley/Echo%20Valley.md) (Solved)** - 300 points 
-* handoff (Solved) - 400 points
+* **[handoff](Binary%20Exploitation/handoff/handoff.md) (Solved)** - 400 points
 
 </details>
 
