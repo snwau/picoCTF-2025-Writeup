@@ -69,14 +69,14 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (1 solutions)</summary>
+  <summary>Reverse Engineering (3 solutions)</summary>
 
 * Flag Hunters (Solved) - 75 points
-* Binary Instrumentation 1 (Solved) - 200 points
+* **[Binary Instrumentation 1](Reverse%20Engineering/Binary%20Instrumentation%201/Binary%20Instrumentation%201.md) (Solved)** - 200 points
 * Tap into Hash (Solved) - 200 points
 * **[Chronohack](Reverse%20Engineering/Chronohack/Chronohack.md) (Solved)** - 200 points
 * Quantum Scrambler (Solved) - 200 points
-* Binary Instrumentation 2 (Solved) - 300 points
+* **[Binary Instrumentation 2](Reverse%20Engineering/Binary%20Instrumentation%202/Binary%20Instrumentation%202.md) (Solved)** - 300 points
 * perplexed (Solved) - 400 points
 
 </details>
