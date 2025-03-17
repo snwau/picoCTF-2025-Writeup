@@ -33,7 +33,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Cryptography (0 solutions)</summary>
+  <summary>Cryptography (0 solutions, 3 remaining to write up)</summary>
 
 * hashcrack (Solved) - 100 points
 * EVEN RSA CAN BE BROKEN??? (Solved) - 200 points
@@ -45,7 +45,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Forensics (0 solutions)</summary>
+  <summary>Forensics (0 solutions, 4 remaining to write up)</summary>
 
 * Ph4nt0m 1ntrud3r (Solved) - 50 points
 * RED (Solved) - 100 points
@@ -57,7 +57,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (0 solutions)</summary>
+  <summary>General Skills (0 solutions, 5 remaining to write up)</summary>
 
 * FANTASY CTF (Solved) - 10 points
 * (Removed) Chalkboard (Solved) - 100 points
@@ -69,7 +69,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (3 solutions)</summary>
+  <summary>Reverse Engineering (4 solutions, 3 remaining to write up)</summary>
 
 * Flag Hunters (Solved) - 75 points
 * **[Binary Instrumentation 1](Reverse%20Engineering/Binary%20Instrumentation%201/Binary%20Instrumentation%201.md) (Solved)** - 200 points
@@ -77,12 +77,12 @@ As time permits I'll be adding further individual challenge write ups for all th
 * **[Chronohack](Reverse%20Engineering/Chronohack/Chronohack.md) (Solved)** - 200 points
 * Quantum Scrambler (Solved) - 200 points
 * **[Binary Instrumentation 2](Reverse%20Engineering/Binary%20Instrumentation%202/Binary%20Instrumentation%202.md) (Solved)** - 300 points
-* perplexed (Solved) - 400 points
+* **[perplexed](Reverse%20Engineering/perplexed/perplexed.md) (Solved)** - 400 points
 
 </details>
 
 <details>
-  <summary>Web Exploitation (0 solutions)</summary>
+  <summary>Web Exploitation (0 solutions, 7 remaining to write up)</summary>
 
 * Cookie Monster Secret Recipe (Solved) - 50 points
 * head-dump (Solved) - 50 points
