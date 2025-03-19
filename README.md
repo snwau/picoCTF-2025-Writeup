@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-I participated in the [picoCTF 2025](www.picoctf.org) competition as an individual competing in the Global category, organised by [Carnegie Mellon University](https://cmu.edu/), which ran from the 17'th to 27'th of March 2025 (local time). 
+I participated in the [picoCTF 2025](www.picoctf.org) competition as an individual competing in the Global category, organised by [Carnegie Mellon University](https://cmu.edu/), which ran from the 8'th to 17'th of March 2025 (local time). 
 
 This is a write up of my progress and the challenges solved during the event.
 
@@ -69,13 +69,13 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Reverse Engineering (4 solutions, 3 remaining to write up)</summary>
+  <summary>Reverse Engineering (5 solutions, 2 remaining to write up)</summary>
 
 * Flag Hunters (Solved) - 75 points
 * **[Binary Instrumentation 1](Reverse%20Engineering/Binary%20Instrumentation%201/Binary%20Instrumentation%201.md) (Solved)** - 200 points
 * Tap into Hash (Solved) - 200 points
 * **[Chronohack](Reverse%20Engineering/Chronohack/Chronohack.md) (Solved)** - 200 points
-* Quantum Scrambler (Solved) - 200 points
+* **[Quantum Scrambler](Reverse%20Engineering/Quantum%20Scrambler/Quantum%20Scrambler.md) (Solved)** - 200 points
 * **[Binary Instrumentation 2](Reverse%20Engineering/Binary%20Instrumentation%202/Binary%20Instrumentation%202.md) (Solved)** - 300 points
 * **[perplexed](Reverse%20Engineering/perplexed/perplexed.md) (Solved)** - 400 points
 
