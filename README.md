@@ -73,19 +73,19 @@ As time permits I'll be adding further individual challenge write ups for all th
 
 * Flag Hunters (Solved) - 75 points
 * **[Binary Instrumentation 1](Reverse%20Engineering/Binary%20Instrumentation%201/Binary%20Instrumentation%201.md) (Solved)** - 200 points
-* Tap into Hash (Solved) - 200 points
+* **[Tap into Hash](Reverse%20Engineering/Tap%20into%20Hash/Tap%20into%20Hash.md) (Solved)** - 200 points
 * **[Chronohack](Reverse%20Engineering/Chronohack/Chronohack.md) (Solved)** - 200 points
 * **[Quantum Scrambler](Reverse%20Engineering/Quantum%20Scrambler/Quantum%20Scrambler.md) (Solved)** - 200 points
 * **[Binary Instrumentation 2](Reverse%20Engineering/Binary%20Instrumentation%202/Binary%20Instrumentation%202.md) (Solved)** - 300 points
-* **[perplexed](Reverse%20Engineering/perplexed/perplexed.md) (Solved)** - 400 points
+* perplexed (Solved) - 400 points
 
 </details>
 
 <details>
-  <summary>Web Exploitation (0 solutions, 7 remaining to write up)</summary>
+  <summary>Web Exploitation (2 solutions, 5 remaining to write up)</summary>
 
-* Cookie Monster Secret Recipe (Solved) - 50 points
-* head-dump (Solved) - 50 points
+* **[Cookie Monster Secret Recipe](Web%20Exploitation/Cookie%20Monster%20Secret%20Recipe/Cookie%20Monster%20Secret%20Recipe.md) (Solved)** - 50 points
+* **[head-dump](Web%20Exploitation/head-dump/head-dump.md) (Solved)** - 50 points
 * n0s4n1ty 1 (Solved) - 100 points
 * SSTI1 (Solved) - 100 points
 * WebSockFish (Unsolved) - 200 points
